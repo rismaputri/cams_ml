@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e165de2-9e60-4beb-b6f0-3381d27d3981" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fundamental_ml_03.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamental_ml_04.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572488715954</updated>
-      <workItem from="1572488717037" duration="5782000" />
+      <workItem from="1572488717037" duration="7190000" />
     </task>
     <task id="LOCAL-00001" summary="helloworld">
       <created>1572489861441</created>
@@ -66,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572492227371</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="numpay">
+      <created>1572494519252</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1572494519252</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,6 +94,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="helloworld" />
     <MESSAGE value="pandas_and_matplotlib" />
-    <option name="LAST_COMMIT_MESSAGE" value="pandas_and_matplotlib" />
+    <MESSAGE value="numpay" />
+    <option name="LAST_COMMIT_MESSAGE" value="numpay" />
   </component>
 </project>
